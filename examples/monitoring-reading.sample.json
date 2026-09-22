@@ -1,0 +1,23 @@
+{
+  "reading_id": "MON-READ-2026-001",
+  "station_id": "MON-001",
+  "parameter": "turbidity",
+  "value": 4.8,
+  "unit": "NTU",
+  "observed_at": "2026-09-22T12:30:00Z",
+  "source": {
+    "source_type": "field_sensor",
+    "source_status": "demo"
+  },
+  "quality_control": {
+    "schema_valid": true,
+    "unit_valid": true,
+    "range_flag": "normal",
+    "review_required": false
+  },
+  "dashboard_output": {
+    "include_in_latest_summary": true,
+    "alert_triggered": false
+  },
+  "notice": "Fictional demonstration data only."
+}
